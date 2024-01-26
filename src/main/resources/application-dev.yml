@@ -1,0 +1,6 @@
+app:
+  description: Spring Boot Application (Development Profile)
+camel:
+  component:
+    kafka:
+      brokers: localhost:9092
