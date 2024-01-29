@@ -1,4 +1,4 @@
-package tech.sobhan.camelKafka.withCamelApi;
+package tech.sobhan.camelKafka.withCamelTimer;
 
 import org.apache.camel.AggregationStrategy;
 import org.apache.camel.Exchange;

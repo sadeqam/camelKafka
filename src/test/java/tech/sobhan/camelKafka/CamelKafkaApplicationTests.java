@@ -8,7 +8,7 @@ public class CamelKafkaApplicationTests {
 
     @Test
     void test1(){
-
+        //TODO don't forget integration tests
     }
 
 }

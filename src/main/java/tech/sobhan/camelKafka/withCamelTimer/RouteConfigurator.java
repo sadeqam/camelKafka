@@ -1,10 +1,10 @@
-package tech.sobhan.camelKafka.withCamelApi;
+package tech.sobhan.camelKafka.withCamelTimer;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class RouteConfigurator extends RouteBuilder {
 
     @Autowired
